@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.knoxvilleautoglassrepair.com/sitemap.xml
